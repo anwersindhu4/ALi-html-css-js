@@ -1,0 +1,66 @@
+table {
+    font-family:arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+/* flot tag usfull */
+  /* line-height can change the placement of the linr/text */
+ /* for id add # and for class add. */
+  td, th {
+    border: 1px solid #585656;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  td {
+    text-align: center;
+  }
+  
+  #C4 {
+    width: 50%;
+  }
+ #a2,a1 {
+    text-align: left;
+     size: 8px;
+     }
+#blue {
+color: blue;
+background-color : lightblue; width: 22.5%;
+}
+
+ #C4 {
+    position:relative; left: 660px; bottom:125px;
+}
+#list{
+    position:relative; left: 0px; top:40px;
+}
+.watermelon{
+  display: inline-block;
+    width: 100%;
+    background-color: #1976D2;
+    margin-top: 10px;
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    margin-bottom: 15px;
+}
+#a1{
+  display: inline-block;
+    width: 100%;
+    background: #1976D2;
+    margin-top: 10px;
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    margin-bottom: 15px;
+}
+#night-mode{
+  border: none; 
+position:relative;left: 1220px;
+}
+
+
+
